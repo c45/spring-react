@@ -1,2 +1,1 @@
-An example of a Spring application with React.
-
+Example application with Spring Boot and React.
